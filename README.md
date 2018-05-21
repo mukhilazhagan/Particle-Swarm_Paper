@@ -1,4 +1,7 @@
 # Particle-Swarm_Paper
+
+My work on a Machine Learning Algorithm , a variant of Particle Swarm Optimization Algorithm.
+
 ‘Velocity Restriction based Improvised Particle Swarm Optimization Algorithm’
 
 Links:
